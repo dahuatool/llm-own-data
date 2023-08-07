@@ -1,0 +1,95 @@
+Cra 8c # 159b 23
+Bogotá, Colombia
+57 350 5758256
+WILLIAMSOLER@GMAIL.COM
+WILLIAM SOLER
+SKILLS
+I am a dependable professional who works daily on growing and improving my
+skills. My goal is to contribute with my communication and technical skills so
+that our teams can add value to an organization
+EXPERIENCE
+Technical Support Engineer
+Sutherland
+12/20 – 7/22
+● Gave technical support to NetApp customers within the established SLAs
+and with excellent results and customer feedback
+● Emphasis in Virtualization with VMware, ESeries storage, Data protection
+and ONTAP
+● Troubleshooted NAS/SAN networking environments using Ethernet, ISCSI and
+Fiber interfaces.
+● Assisted team members to find resolution on difficult cases
+Quality Analyst
+Concentrix
+10/19 – 12/20
+● Perform weekly evaluations of agents and calibrate our processes with the
+TLs and Trainers
+● Created and executed action plans with QEs, Trainers and TLS in order to
+attack weak areas
+● Developed a daily summary format with scores and success rates with
+associated graphs and filters
+● Work with technical products that range from measurement instruments to
+thermal cameras to networked navigation systems for boats
+Tech Support Associate II
+Concentrix
+01/19 – 10/19
+● Offered tech support for top of the line camera security systems from
+Dahua
+● Develop an internal web application used by the team every day to
+organize and efficiently take detailed troubleshooting steps on every
+call
+Team Lead
+Teleperformance
+08/18 – 01/19
+● Lead a team of 15 members while meeting metrics in a demanding campaign
+● Improved talent and worked out behaviors through root cause finding and
+action plan development
+● Used the power of the client tools in order to develop long term action
+plans for our line of business
+Customer Service Agent
+Teleperformance
+01/04/16 – 08/01/18
+● I offered excellent customer service for american callers on two
+campaigns on the site for mobile phones and health insurance
+● Did two backups for two supervisors while they were on vacation.
+● Only one of two agents trained in every product available.
+● Developed documentation and guides used daily by the team
+EDUCATION
+Foundations of Cybersecurity
+GOOGLE
+4/8 courses completed
+2023
+● Certificate
+Electronic Engineering
+UNIVERSIDAD NACIONAL DE COLOMBIA
+2005
+● Third semester completed.
+High School
+LICEO NAVARRA
+1996
+● ICFES 375/400.
+LANGUAGES
+English
+C2
+Spanish
+Native
+PERSONAL PROJECTS
+Dahua Tool
+● It is a state management aware application that assists Technical Support
+personnel in documenting their current interaction
+● Easy to use, reduces manual input on repetitive information by adding
+dropdown menus
+● Saves the relevant information in an appealing template
+● Developed for Concentrix in HTML/CSS/Javascript and Bootstrap
+● Complete success as it became an integral part of the daily workflow for
+all personnel in the team
+● Source code available at https://github.com/dahuatool/dahuatool
+AI Chatbot
+● It allows access to ChatGPT plus engine for free (using a free trial key
+of the API)
+● It uses the OpenAI API to interact with the latest version of the AI at
+this time
+● It has the added option of selecting a personality from a drop down menu,
+which the AI has been instructed to not just imitate, but be that person
+as much as possible
+● Developed on Python, Flask and the OpenAI API
+● Code available at https://github.com/dahuatool/GPTintegration
